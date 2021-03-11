@@ -1,6 +1,6 @@
 # Setup
 Requirements
-Install node version 14+ 
+Install node version 14+
 Install docker for create image
 
 # Running node application
